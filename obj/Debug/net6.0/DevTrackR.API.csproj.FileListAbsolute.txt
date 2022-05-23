@@ -1,0 +1,9 @@
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\DevTrackR.API.exe
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\DevTrackR.API.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\thiag\Documents\Jornada .NET\DevTrackR.API\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevTrackR.API</name>
+    </assembly>
+    <members>
+        <member name="M:DevTrackR.API.Controllers.PackagesController.Post(DevTrackR.API.Models.AddPackageInputModel)">
+             <summary>
+             Método para cadastro de um pacote
+             </summary>
+             <remarks>
+             { 
+            "title": "Pacote de teste para funcionar",
+            "weight": 2,
+            "senderName": "Thiago",
+            "senderEmail": "thiago.a.mendonca89@gmail.com"
+            }
+             </remarks>
+             <param name="model">Aqui temos dados do pacote</param>
+             <returns>Objeto criado</returns>
+        </member>
+    </members>
+</doc>
